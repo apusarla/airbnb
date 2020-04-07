@@ -1,4 +1,4 @@
-# airbnb
+# AirBnB
 Udacity Project one on writing a Data Science Blog Post
 
 # Overview
