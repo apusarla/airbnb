@@ -11,7 +11,7 @@ The code in the project can be executed using Anaconda distribution of Python ve
 # Repository Contents
 The repository contains the following folders and files:
 
-The findings of the project are publish in a blog here.
+The findings of the project are publish in a blog here <https://medium.com/@a.pusarla/find-cheapest-accommodation-in-edinburgh-via-airbnb-418d085e4794>.
 
 # Results
 With my analysis of the shared data I found out that
